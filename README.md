@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/f3KtMW7.gif" alt="coding" width="300"/>
+<!-- 🚀 Shalvi's GitHub README - Personalized & Clean -->
+<!-- 🚀 Shalvi's GitHub README - Personalized & Clean -->
+  <img src= " alt="coding" width="300"/>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
 
