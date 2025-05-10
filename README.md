@@ -14,10 +14,8 @@
 </p>
 
 <p align="center">
-<!-- 🚀 Shalvi's GitHub README - Personalized & Clean -->
-<!-- 🚀 Shalvi's GitHub README - Personalized & Clean -->
-  <img src= " alt="coding" width="300"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif " alt="coding" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif " width="300"/>
 </p>
 
 ---
