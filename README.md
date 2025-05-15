@@ -15,7 +15,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif " alt="coding" width="400"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif " width="300"/>
 </p>
 
 ---
