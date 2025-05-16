@@ -10,7 +10,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Cloud+Computing+with+AWS;Python+Programming+Explorer;Tech-Enthusiast+%7C+Problem+Solver;Learning+Everyday+%7C+Growing+Consistently" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Cloud+Computing+with+AWS;Python+Programming+Explorer;Tech-Enthusiast+%7C+Problem+Solver;Learning+Everyday" alt="Typing SVG" />
 </p>
 
 <p align="center">
