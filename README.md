@@ -1,4 +1,8 @@
-<!-- Professional GitHub Profile README for shalviiiii -->
+<!-- Standout Professional GitHub Profile README for shalviiiii -->
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/shalviiiii?v=4" width="180" alt="Shalvi's GitHub Avatar" style="border-radius:50%; box-shadow: 0 4px 16px #0077b6;">
+</p>
 
 <h1 align="center">Hi, I'm Shalvi! 👋</h1>
 
@@ -8,7 +12,7 @@
 
 ---
 
-🌟 **About Me**
+## 🌟 About Me
 
 - 🎓 Recent BCA graduate passionate about technology and continuous learning
 - ☁️ Skilled in **Cloud Computing** with **AWS**
@@ -17,16 +21,16 @@
 
 ---
 
-🚀 **Featured Project**
+## 🚀 Featured Project
 
-- **Computing Static Website using AWS**  
-  Harnessing the power of AWS services to deploy and manage a scalable, static website.
+**Computing Static Website using AWS**  
+Harnessing the power of AWS services to deploy and manage a scalable, static website.
 
 ---
 
-🛠️ **Skills & Tools**
+## 🛠️ Skills & Tools
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3679E7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Cloud_Computing-00BFFF?style=for-the-badge" alt="Cloud Computing"/>
@@ -34,10 +38,16 @@
 
 ---
 
-🎯 **Let’s Connect!**
+## 🎯 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savi795/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shalviiiii)
+<p align="center">
+  <a href="https://www.linkedin.com/in/savi795/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/shalviiiii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
