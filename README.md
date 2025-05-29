@@ -17,7 +17,7 @@
 - 🎓 Recent BCA graduate passionate about technology and continuous learning
 - ☁️ Skilled in **Cloud Computing** with **AWS**
 - 🐍 Proficient in **Python programming**
-- 🎨 Love painting and expressing creativity through art
+
 
 ---
 
