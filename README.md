@@ -1,11 +1,6 @@
 <!-- Standout Professional GitHub Profile README for shalviiiii -->
 
 <h1 align="center">Hey, I'm Shalvi! 👋</h1>
-<p align="center">
-  I'm excited to connect with you — let's build, share, and grow together. 🌱
-</p>
-
----
 
 <p align="center"><i>
   "The only way to do great work is to love what you do." <br>
@@ -15,7 +10,7 @@
 ---
 
 <p align="center">
-  <b>BCA Graduate | Python Programmer | AWS Cloud Enthusiast</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=BCA+Graduate;Python+Programmer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -38,24 +33,17 @@ Harnessing the power of AWS services to deploy and manage a scalable, static web
 
 ## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3679E7?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Cloud_Computing-00BFFF?style=for-the-badge" alt="Cloud Computing"/>
-</p>
+- **Python**
+- **AWS (Amazon Web Services)**
+- **Cloud Computing**
+- **Web Development (Static Sites)**
 
 ---
 
 ## 🎯 Let’s Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/savi795/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/shalviiiii">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/savi795/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shalviiiii)
 
 ---
 
