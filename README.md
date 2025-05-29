@@ -2,10 +2,15 @@
 
 <h1 align="center">Hey, I'm Shalvi! 👋</h1>
 <p align="center">
-  <b>Welcome to my world of code, creativity & constant learning!</b> ✨<br>
   I'm excited to connect with you — let's build, share, and grow together. 🌱
 </p>
 
+---
+
+<p align="center"><i>
+  "The only way to do great work is to love what you do." <br>
+  — Steve Jobs
+</i></p>
 
 ---
 
