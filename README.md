@@ -1,10 +1,13 @@
 <!-- Standout Professional GitHub Profile README for shalviiiii -->
 
+<h1 align="center">Hey, I'm Shalvi! 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/shalviiiii?v=4" width="180" alt="Shalvi's GitHub Avatar" style="border-radius:50%; box-shadow: 0 4px 16px #0077b6;">
+  <b>Welcome to my world of code, creativity & constant learning!</b> ✨<br>
+  I'm excited to connect with you — let's build, share, and grow together. 🌱
 </p>
 
-<h1 align="center">Hi, I'm Shalvi! 👋</h1>
+
+---
 
 <p align="center">
   <b>BCA Graduate | Python Programmer | AWS Cloud Enthusiast</b>
@@ -17,7 +20,7 @@
 - 🎓 Recent BCA graduate passionate about technology and continuous learning
 - ☁️ Skilled in **Cloud Computing** with **AWS**
 - 🐍 Proficient in **Python programming**
-
+- 🎨 Love painting and expressing creativity through art
 
 ---
 
@@ -48,14 +51,6 @@ Harnessing the power of AWS services to deploy and manage a scalable, static web
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-<details>
-  <summary>🎨 <b>Fun Fact</b></summary>
-  <br>
-  I’m passionate about painting and love making unique artworks!
-</details>
 
 ---
 
