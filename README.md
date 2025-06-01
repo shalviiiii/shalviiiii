@@ -6,9 +6,6 @@
   "The only way to do great work is to love what you do." <br>
   — Steve Jobs
 </i></p>
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=BCA+Graduate;Python+Programmer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
