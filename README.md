@@ -9,15 +9,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=BCA+Graduate;Python+Programmer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
-
 ## 🌟 About Me
-
 - 🎓 Recent **BCA graduate** passionate about technology and continuous learning
 - ☁️ Skilled in **Cloud Computing** with **AWS**
 - 🐍 Proficient in **Python programming**
 - 🎨 Love painting and expressing creativity through art  
-
----
 
 ## 🚀 Featured Project
 
@@ -25,7 +21,6 @@
 Harnessing the power of AWS services to deploy and manage a **scalable, static website**.
 
 ---
-
 ## 🛠️ Skills & Tools  
 
 ### 🔥 Languages & Tools  
@@ -54,12 +49,7 @@ Harnessing the power of AWS services to deploy and manage a **scalable, static w
   <a href="https://github.com/shalviiiii">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:shalvis795@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
-
----
+  </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=90&section=footer"/>
