@@ -9,7 +9,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0078D4&center=true&vCenter=true&width=435&lines=BCA+Graduate;Python+Programmer;AWS+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
+
 ## 🌟 About Me
+
 - 🎓 Recent **BCA graduate** passionate about technology and continuous learning
 - ☁️ Skilled in **Cloud Computing** with **AWS**
 - 🐍 Proficient in **Python programming**
