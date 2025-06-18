@@ -42,7 +42,7 @@ Harnessing the power of AWS services to deploy and manage a **scalable, static w
 
 ---
 
-## 🎯 Let’s Connect!
+## 🎯 Let’s Connect!!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/savi795/">
